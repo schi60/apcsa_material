@@ -6,4 +6,4 @@ Classwork - 2D arrays:
 
 3. chessboard
 
-Save your Java files here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/02_2D_arrays/`
+Save your Java files here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/09_2D_arrays/`
