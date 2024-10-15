@@ -1,6 +1,6 @@
 ## FRQ: APLine
 
-An APLine is a line defined by the equation ax + by + c = 0,where a is not equal to zero, b is not equal to zero, and a, b, and c are all integers. The slope of an APLine is defined to be the double value -a / b . A point (represented by integers x and y) is on an APLine if the equation of the APLine is satisfied when those x and y values are substituted into the equation. That is, a point represented by x and y is on the line if ax + by + c is equal to 0. Examples of two APLine equations are shown in the following table.
+An APLine is a line defined by the equation ax + by + c = 0,where a is not equal to zero, b is not equal to zero, and a, b, and c are all integers. The slope of an APLine is defined to be the double value -a / b . A point (represented by integers x and y) is on an APLine if the equation of the APLine is satisfied when those x and y values are substituted into the equation. That is, a point represented by x and y is on the line if ax + by + c is equal to 0. Examples of two APLine equations are shown in the following 
 
 ![image](https://github.com/novillo-cs/apcsa_material/assets/123229891/0d3e070b-62f1-4a24-97f7-36857d4a8013)
 
