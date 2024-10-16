@@ -57,7 +57,7 @@ public class Rectangle{
      }
      
      public static int getTotalRectangles(){
-		return totalRectangles;
-	}
+	return totalRectangles;
+     }
 
 }
