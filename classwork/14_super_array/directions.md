@@ -59,7 +59,7 @@ It returns the value at the specified index. If the index is not valid (index is
 
 ### public String set(int index, String newValue)
   
-It changes the element at index to newValue, and return the value you replaced. If the index is not valid (index is less than 0, or index is size() or greater) print an error and return null. Do not modify the list. 
+It changes the element at index to newValue, and return the value you replaced. If the index is not valid (index is less than 0, or index is size() or greater) print an error, return null and do not modify the list. 
 
 ### public String remove(int index)
 
