@@ -1,6 +1,6 @@
 # Practice Exceptions with SuperArray
 
-Add the following exceptions to your SuperArray implemented in the assigments repo. Do not do it in the lab 03 repo.
+**Add the following exceptions to your SuperArray implemented in the assigments repo. Do not do it in the lab 03 repo.**
 
 ### SuperArrray(int initialCapacity)
 
