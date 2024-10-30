@@ -8,7 +8,8 @@ a) In the class **WordPairsList**, write the constructor which takes the array o
       - Loop through the rest of the word array starting from index i+1 for the second word in the word pair (for loop from index j = i+1 to length)
           - Add the new WordPair formed from the ith word and the jth word to the allPairs ArrayList.
          
-![image](https://github.com/novillo-cs/apcsa_material/assets/123229891/be2ab703-a914-4976-b204-10f66418a5cd)
+![image](https://github.com/user-attachments/assets/8190d607-db28-4131-b6b1-f45ba6f3e1d8)
+
 
 b) Write a method called numMatches() in WordPairsList. This method counts and returns the number of pairs where the first word is the same as the second word. For example, if the word array is [“hi”,”bye”,”hi”], the pairs generated would be [“hi”,”bye”], [“hi”,”hi”], and [“bye”,”hi”]. In the second pair [“hi”,”hi”], the first word is the same as the second word, so numMatches() would return 1.
 
