@@ -26,7 +26,8 @@ hikerClub.addClimb("Monadnock", 344);
 When the code segment has completed execution, the instance variable climbList would contain the
 following entries in either of the orders shown below.
 
-![image](https://github.com/novillo-cs/apcsa_material/assets/123229891/3fab7ddd-c3aa-400c-8c5c-fccb4ef13102)
+![image](https://github.com/user-attachments/assets/d829c969-9fbf-49dd-a2ac-96f493ad8c8e)
+
 
 You may assume that climbList is in alphabetical order by name when the method is called. When the
 method has completed execution, climbList should still be in alphabetical order by name.
