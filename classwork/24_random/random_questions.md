@@ -1,6 +1,6 @@
 ## Random
 
-Save here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/24_random/`
+Save here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/24_random/random.txt`
 
 1. Which of the following statements assigns a random integer between 1 and 10, inclusive, to rn ?
 
