@@ -52,3 +52,24 @@ The pasture is 4 rows by 5 column. The cow travels from row 1, column 3 to row 1
 **OUTPUT DETAILS:**
 
 There is only one way from (1,3) to (1,5) in exactly 6 seconds (and it is the obvious one that travels around the two trees). 
+
+## Tasks
+
+
+
+1. Write an outline: How you are going to implement this algorithm?
+   
+Save your work here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/35_usaco/silver.md`
+   
+2. Implement your solution:
+
+Save your work here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/35_usaco/Silver.java`
+```
+public class Silver {
+
+  public static long solve(String input_filename){
+
+  }
+
+}
+```
