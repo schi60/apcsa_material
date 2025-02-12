@@ -54,3 +54,5 @@ private void removeQueen(...){
 Respond to the questions here:  `.../APCSA_1/apcsa-assignments-YourUsername/classwork/39_NQueens/answers.txt (or md, docx, pdf)`
 
 Write the pseudocode here:  `.../APCSA_1/apcsa-assignments-YourUsername/classwork/39_NQueens/pseudocode.txt (or md, docx, pdf)`
+
+Write and test the functions here:  `.../APCSA_1/apcsa-assignments-YourUsername/classwork/39_NQueens/NQueens.java`
