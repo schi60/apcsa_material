@@ -5,6 +5,7 @@
 Save this classwork here: 
 
 `.../APCSA_1/apcsa-assignments-YourUsername/classwork/40_maze/maze1.txt`
+
 `.../APCSA_1/apcsa-assignments-YourUsername/classwork/40_maze/Maze.java`
 
 
