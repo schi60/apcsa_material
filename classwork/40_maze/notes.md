@@ -2,7 +2,11 @@
 
 ## Day 1
 
-Save this classwork here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/40_maze/maze1.txt`
+Save this classwork here: 
+
+`.../APCSA_1/apcsa-assignments-YourUsername/classwork/40_maze/maze1.txt`
+`.../APCSA_1/apcsa-assignments-YourUsername/classwork/40_maze/Maze.java`
+
 
 The following code represents a maze (we will learn the meaning of each symbol in our next lesson):
 ```
