@@ -37,6 +37,10 @@ You may use built-in methods to print an array as string ```Arrays.toString()```
 
 - 1D arrays, Arrays.toString(myOneDArray) => "{1, 2, 3, 4}"
 
+
+- 2D arrays, Arrays.toString(myTwoDArray) => It does not work as the 1D array. You may try it. There is another built-in methond you can use to print a 2D array as string. Please take a look at the documentation: https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/Arrays.html
+
+
 ## Day 2
 
 ### Maze Solver
@@ -101,7 +105,4 @@ The recursive solve method takes a row and col position.
 - The 'E' remains the same
 - All visited spots that were not part of the solution are changed to '.'
 - All visited spots that are part of the solution are changed to '@'
-
-
-- 2D arrays, Arrays.toString(myTwoDArray) => It does not work as the 1D array. You may try it. There is another built-in methond you can use to print a 2D array as string. Please take a look at the documentation: https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/Arrays.html
 
