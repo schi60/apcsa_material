@@ -105,3 +105,24 @@ The recursive solve method takes a row and col position.
 - The 'E' remains the same
 - All visited spots that were not part of the solution are changed to '.'
 - All visited spots that are part of the solution are changed to '@'
+
+## Day 3
+
+#### Animation
+
+When you modify the maze by adding '@' and '.', you may add the following code:
+
+```
+if (animate) {
+    gotoTop();
+    clearTerminal();
+    System.out.println(this);
+    wait(200);
+}
+```
+
+#### Color your output with this command
+
+```
+java Driver | sed -e 's/#/\x1b[47;39m#\x1b[39;49m/g' -e 's/@/\x1b[33m@\x1b[39;49m/g' -e 's/\./\x1b[49;32m\.\x1b[39;49m/g'
+```
