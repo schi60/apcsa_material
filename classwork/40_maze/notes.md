@@ -167,7 +167,7 @@ public void addSE() {
  */
 
 public void carveMaze() {
-  carveMaze(row, col)
+  carveMaze(1, 1)
 }
 
 public void carveMaze(int row, int col) {
