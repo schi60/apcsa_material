@@ -152,7 +152,7 @@ public Maze(int rows, int cols){
       row[i]='#';
     }
   }
-  carveMaze(1,1);
+  carveMaze();
   addSE();
 }
 
@@ -165,6 +165,11 @@ public void addSE() {
 /* Recursion will end when there are no more valid directions left to explore
  * from the current position ensuring that dead ends are reached.
  */
+
+public void carveMaze() {
+  carveMaze(row, col)
+}
+
 public void carveMaze(int row, int col) {
   // Base Case
   // if (row, col) is a border, space or it has more than 1 adjacent spot with spaces => return
