@@ -126,3 +126,53 @@ if (animate) {
 ```
 java Driver | sed -e 's/#/\x1b[47;39m#\x1b[39;49m/g' -e 's/@/\x1b[33m@\x1b[39;49m/g' -e 's/\./\x1b[49;32m\.\x1b[39;49m/g'
 ```
+## Day 4 
+
+#### Carve a maze
+
+Given a maze with only walls. You must carve a sequence of paths. Please follow these directions:
+
+- Add a new constructor to your Maze.java, where you create a maze with only walls.
+- Your constructor call the method carveMaze(row, column) and then place one 'S' and one 'E'.
+
+**How to carve the maze?**
+
+You must randomize the moves in the different directions, but you should not use the same directions twice.
+
+For example, you may:
+
+- Generate a random array cosidering 4 possible moves and loop through that array. 
+- Generate an array with 4 posible moves, and remove those in a random order.
+
+```
+public Maze(int rows, int cols){
+  maze = new char[rows][cols];
+  for(char[]row:maze){
+    for(int i = 0; i < row.length;i++){
+      row[i]='#';
+    }
+  }
+  carveMaze(1,1);
+  addSE();
+}
+
+
+public void addSE() {
+  // Place S and E randomly in an empty spot
+}
+
+
+/* Recursion will end when there are no more valid directions left to explore
+ * from the current position ensuring that dead ends are reached.
+ */
+public void carveMaze(int row, int col) {
+  // Base Case
+  // if (row, col) is a border, space or it has more than 1 adjacent spot with spaces => return
+
+  // Recursive Case
+  // Change spot at (row, col) to a space
+  // Define an array or ArrayList with directions
+  // For each direction randomly selected => call carveMaze in that direction
+}
+```
+
