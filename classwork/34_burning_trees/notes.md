@@ -10,7 +10,7 @@ Start the simulation by setting the fire to the leftmost column of trees in the 
 
 ### Specifications
 
-- There are 4 states for a square: empty, tree, fire, ash.
+- There are 4 states for a square: empty (" "), tree ("@"), fire ("W"), ash (".").
 - At the start of a round all existing fire will spread and then turn to ash.
 - A fire will spread to all trees directly adjacent to the fire (not diagonal).
 - A tree that just turned into fire will not spread until the next round.
