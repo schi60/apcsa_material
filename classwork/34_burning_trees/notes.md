@@ -1,5 +1,8 @@
 # Burning Trees Simulator
 
+
+Save your work here: ```.../APCSA_1/apcsa-assignments-YourUsername/classwork/43_burning_trees/```
+
 ## Problem
 
 Consider a forest that is made up of a NxN grid, and that some percentage of the spaces of the grid are randomly filled with trees. You must light the trees on fire, and see how long the fire will burn. The starting position of the trees is randomized, so each run will have a differnet number of rounds before the fire burns out completely. You must calculate the number of rounds of burn time for a particular forest.
