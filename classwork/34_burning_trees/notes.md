@@ -1,9 +1,9 @@
 # Burning Trees Simulator
 
 
-Day 1: Save your work here: ```.../APCSA_1/apcsa-assignments-YourUsername/classwork/43_burning_trees/```
+Day 1 - Save your work here: ```.../APCSA_1/apcsa-assignments-YourUsername/classwork/43_burning_trees/```
 
-Day 2: Save your work here: ```.../APCSA_1/apcsa-assignments-YourUsername/classwork/44_burning_trees_frontier/```
+Day 2 - Save your work here: ```.../APCSA_1/apcsa-assignments-YourUsername/classwork/44_burning_trees_frontier/```
 
 ## Problem
 
