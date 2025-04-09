@@ -52,9 +52,10 @@ It will create a canvas 600 px wide and 400 px high.
 - RGB: three values
   ```background(220, 25, 65);```
 
-### Coordinate System in processing
+### Coordinate System in Processing
 
-![image](https://github.com/user-attachments/assets/519dd712-f521-4833-ac9e-08bc87b9ea51)
+![image](https://github.com/user-attachments/assets/3d6fe833-42ca-4671-81d1-2bfeb24b3b9c)
+
 
 Please read the [documentation](https://processing.org/tutorials/gettingstarted) to get familiar with Processing
 
