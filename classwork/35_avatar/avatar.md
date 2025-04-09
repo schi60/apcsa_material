@@ -1,4 +1,4 @@
-Save your work here: .../APCSA_1/apcsa-assignments-YourUsername/classwork/45_avatar/
+Save your work here: .../APCSA_1/apcsa-assignments-YourUsername/classwork/45_avatar/avatar.pde
 
 Create an avatar and implement 4 animations:
 
