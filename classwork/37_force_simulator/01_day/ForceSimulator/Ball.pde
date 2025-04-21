@@ -24,7 +24,6 @@ class Ball{
   
   void display(){
     // Draw a circle at the x, y position
-    // Make width and height = 50
     // Make sure it is the correct color
   }
   
