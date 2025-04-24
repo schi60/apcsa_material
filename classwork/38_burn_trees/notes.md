@@ -1,5 +1,7 @@
 ## Tree Burning in Processing
 
+Save your work here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/48_burning_trees_processing/MyTreeBurning/*.pde`
+
 - Create a Processing sketch MyTreeBurning.
 
 - Add a new tab BurnTrees and paste your BurnTrees Java code into this new tab.
