@@ -15,4 +15,4 @@ void setup(){
   k.apply(bird, output);
   image(bird,0,0);
   image(output, bird.width,0);
-}K
+}
