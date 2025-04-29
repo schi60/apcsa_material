@@ -1,7 +1,6 @@
 Save your work here: `.../APCSA_1/apcsa-assignments-YourUsername/classwork/49_images/KernelImages/*.pde`
 
-New Features:
-
+## New Features
 
 By default, select one of these techniques for handling image boundaries:
 
