@@ -121,7 +121,7 @@ This exercise should be completed with a parter.
 
 1. One student create a repo and add their parter as collaborator.
    
-![image](https://github.com/novillo-cs/apcsa_material/assets/123229891/2153ed16-1891-422f-a64e-1af2d01f0b12)
+![image](https://github.com/user-attachments/assets/c928fa50-983b-4d90-88d0-cde2026fb7de)
 
 
 2. Create a file (any format) the goal is to get familiar with branches and fixing conflicts.
