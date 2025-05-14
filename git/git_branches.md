@@ -57,8 +57,9 @@ Let's say you create a local branch XYZ in computer A and add it to the server (
 
 1. Commit and push in your branch
 2. Go to main ```git checkout main```
-3. Merge main with your branch ```git merge your_branch_name```
-4. Push changes to main ```git push```
+3. Pull ```git pull```
+4. Merge main with your branch ```git merge your_branch_name```
+5. Push changes to main ```git push```
 
 ## Solve merge conflicts
 
